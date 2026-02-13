@@ -1,0 +1,2 @@
+# New-Employee-Orientation-and-Onboarding-Training-Feedback-Survey-Dashboard
+When new employees are joining an organization, it is critical they get seamless onboarding and orientation so that they can have seamless integration into the organization. The dashboard evaluated the effectiveness of an organization orientation and onboarding training for new employees. The data collected helped in identifying strengths, and gaps
