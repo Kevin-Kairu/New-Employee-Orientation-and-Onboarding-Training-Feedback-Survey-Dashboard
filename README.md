@@ -3,4 +3,4 @@ When new employees are joining an organization, it is critical they get seamless
 New employees who joined the organization within the last 6 months and have completed the onboarding and orientation training sessions. 
 
 The process involved building an end-to-end data collection dashboard using KoboToolbox and Power-Bi. 
-I built the questionnaire using ODK XLS Form, which I then loaded to Kobo Toolbox. After collecting the data using the KoboCollect, I connected the KoboToolbox to PowerBi (using Kobo APIs), hennce I was able to create a live, refreshable dataset. 
+I built the questionnaire using ODK XLS Form, which I then loaded to Kobo Toolbox. After collecting the data using the KoboCollect, I connected the KoboToolbox to PowerBi (using Kobo APIs), hence I was able to create a live, refreshable dataset. 
